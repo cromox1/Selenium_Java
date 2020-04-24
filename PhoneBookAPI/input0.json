@@ -1,0 +1,9 @@
+{
+        "nickname": "administrator",
+        "password": "administrator",
+        "firstName": "FirstName",
+	"lastName": "LastName",
+	"phones": "+44-1234-345678",
+        "email": "admin@phonebook.com",
+	"notes": "My Notes"
+}

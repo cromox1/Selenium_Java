@@ -1,0 +1,9 @@
+{
+        "nickname": "admin",
+        "password": "password",
+        "firstname": "Rosli",
+	"lastname": "Talib",
+	"phones": "+44-1865-274100",
+        "email": "roslitalib2017@gmail.com",
+	"notes": "Super Administrator"
+}
